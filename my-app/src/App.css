@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+
+}
+
+
+.TaskItem{
+  color: black;
+  margin-top: 1rem;
+  display: flex;
+  font-size: 0.6rem;
+  margin-left: 1rem;
+  font-weight: 1000;
+
+}
+
+.addTask{
+  padding: 5rem;
+  background-color:#2020f7;
+}
+.delete{
+  width: 4rem;
+  height: 2.5rem;
+  margin-left: 2rem;
+  margin-top: 0.7rem;
+  text-decoration: none;
+  background-color:#2020f7 ;
+  border: none;
+  border-radius: 0.5rem;
+  color: white;
+  font-weight: 800;
+
+}
+.delete:hover{
+  background-color:#2020f7  ;
+  opacity: 0.6;
+}
+input{
+width: 20rem;
+padding: 1rem 1rem;
+margin: 1rem 0;
+display: inline-block;
+border-radius: 0.3rem;
+box-sizing: border-box;
+border: none;
+border-color: #ccc;
+text-align: center;
+}
+.btnAddtask{
+  padding: 0.9rem;
+  border-radius: 0.5rem;
+  margin-left: 0.8rem;
+  border: none;
+  font-weight: 900;
+  background-color: white;
+}
+.btnAddtask:hover{
+  background-color: #f1dcdc;
+}
