@@ -57,3 +57,7 @@ text-align: center;
 .btnAddtask:hover{
   background-color: #f1dcdc;
 }
+/* Styles for screens smaller than 600px */
+@media (max-width: 600px) {
+  /* Add your responsive styles here */
+}
