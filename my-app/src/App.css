@@ -39,7 +39,7 @@
 input{
 width: 50%;
 padding: 1rem 1rem;
-margin: 1rem 1rem;
+margin: 1rem 0.99rem;
 display: inline-block;
 border-radius: 0.3rem;
 box-sizing: border-box;
